@@ -29,3 +29,9 @@
 
 ## PATCH
 ```The PATCH method is used to apply partial modifications to a resource.```
+
+
+
+
+
+[ReadMe file documentation](https://www.makeareadme.com/)
