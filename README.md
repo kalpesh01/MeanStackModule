@@ -1,5 +1,8 @@
 # Mean Stack 
 
+
+[WHAT IS HTTP?](https://www.w3schools.com/whatis/whatis_http.asp)
+
 ## GET
 ```The GET method requests a representation of the specified resource. Requests using GET should only retrieve data.```
 
