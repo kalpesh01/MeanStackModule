@@ -3,6 +3,8 @@
 ## WHAT IS HHTP?
 [WHAT IS HTTP?](https://www.w3schools.com/whatis/whatis_http.asp)
 
+[ReadMe file documentation](https://www.makeareadme.com/)
+
 ## GET
 ```The GET method requests a representation of the specified resource. Requests using GET should only retrieve data.```
 
@@ -34,7 +36,13 @@
 ```The PATCH method is used to apply partial modifications to a resource.```
 
 
+# MEANSTACK 
+
+## DAY1 
+### Event Listener
+```
+
+```
 
 
 
-[ReadMe file documentation](https://www.makeareadme.com/)
