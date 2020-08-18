@@ -83,7 +83,7 @@ let xmlDomHandler = function (xmlDoc) {
 };
 
 
-// Another  Way
+// Another  Way we can do that
 
 let xmlDomHandler2 = (xmlDoc) => {
     const authorList = xmlDoc.querySelectorAll("Author");
