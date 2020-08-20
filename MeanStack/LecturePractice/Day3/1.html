@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <script src="1.js"></script>
+    <title>Hello, world!</title>
+</head>
+
+<body>
+    <div class="container d-flex flex-column align-items-center">
+
+        <div class="col-6 d-flex flex-column bg-secondary p-2" style="height: 100px;">
+            <input type="text" id="textBox" placeholder="Enter the City" class="d-block">
+            <button class="btn btn-danger btn-block mt-1" onclick="weather()">Submit</button>
+        </div>
+
+        <div class="col-6 badge-primary p-2" id="parent">
+            <div class="row  flex-column align-items-center text-white" style="display: none;">
+                <div class="col-6 bg-secondary mt-1 border-danger border-2">City : </div>
+                <div class="col-6 bg-secondary mt-1">MIN Temperature : </div>
+                <div class="col-6 bg-secondary mt-1">MAX Temperature : </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
